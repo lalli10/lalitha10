@@ -1,0 +1,6 @@
+flour 
+bread 
+tomato 
+sos 
+cheese 
+capsicum
